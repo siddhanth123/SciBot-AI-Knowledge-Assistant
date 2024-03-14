@@ -1,0 +1,4 @@
+langchain
+openai
+xml.etree.ElementTree
+urllib.request
